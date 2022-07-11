@@ -27,7 +27,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    * Your visualization should look something like the preceding map.
 
-![BasicMap](/leaflet-challenge/Leaflet-Step-1/Images/BasicMap.png)
+![BasicMap](./Leaflet-Step-1/Images/BasicMap.png)
 [Leaflet-Step-1,(logic)](/leaflet-challenge/Leaflet-Step-1/static/js/logic.js)
 
 ### Part 2: Gather and Plot More Data (Optional)
