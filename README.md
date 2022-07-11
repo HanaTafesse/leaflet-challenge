@@ -45,6 +45,8 @@ Perform the following tasks:
 
 ![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.png)
 
+<!-- ![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.png) -->
+
 ![mapboxlight](/leaflet-challenge/Leaflet-Step-1/Images/mapboxlight.png)
 
 ![mapboxoutdoors](/leaflet-challenge/Leaflet-Step-1/Images/mapboxoutdoors.png)
