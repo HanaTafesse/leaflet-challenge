@@ -50,6 +50,8 @@ Perform the following tasks:
 
 ![mapboxlight](./Leaflet-Step-1/Images/mapboxlight.png)
 
+![mapboxlight](./Leaflet-Step-1/Images/mapboxlight.png)
+
 ![mapboxoutdoors](./Leaflet-Step-1/Images/mapboxoutdoors.png)
 
 [Leaflet-Step-2,(logic)](/leaflet-challenge/Leaflet-Step-2/static/js/logic.js)
