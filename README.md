@@ -46,7 +46,7 @@ Perform the following tasks:
 
 * Add layer controls to our map.
 
-![satellitemap](./Leaflet-Step-1/Images/satellite.png)
+![satellitemap](./Leaflet-Step-1/Images/satellitemap.png)
 
 ![mapboxlight](./Leaflet-Step-1/Images/mapboxlight.png)
 
