@@ -44,8 +44,11 @@ Perform the following tasks:
 * Add layer controls to our map.
 
 ![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.png)
+
 ![mapboxlight](/leaflet-challenge/Leaflet-Step-1/Images/mapboxlight.png)
+
 ![mapboxoutdoors](/leaflet-challenge/Leaflet-Step-1/Images/mapboxoutdoors.png)
+
 [Leaflet-Step-1,(logic)](/leaflet-challenge/Leaflet-Step-2/static/js/logic.js)
 
 [leaflet-challenge github page](https://github.com/HanaTafesse/leaflet-challenge)
