@@ -3,6 +3,9 @@
 # Unit 15 Homework: Visualizing Data with Leaflet
 
 ### Part 1: Create the Earthquake Visualization
+
+ [leaflet-challenge full page](https://hanatafesse.github.io/leaflet-challenge/)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 1. Get your dataset. To do so, follow these steps: 
@@ -43,15 +46,12 @@ Perform the following tasks:
 
 * Add layer controls to our map.
 
-![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.png)
-
-<!-- ![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.png) -->
+![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.PNG)
 
 ![mapboxlight](./Leaflet-Step-1/Images/mapboxlight.png)
 
 ![mapboxoutdoors](/leaflet-challenge/Leaflet-Step-1/Images/mapboxoutdoors.png)
 
-[Leaflet-Step-1,(logic)](/leaflet-challenge/Leaflet-Step-2/static/js/logic.js)
+[Leaflet-Step-2,(logic)](/leaflet-challenge/Leaflet-Step-2/static/js/logic.js)
 
 [leaflet-challenge github page](https://github.com/HanaTafesse/leaflet-challenge)
-
