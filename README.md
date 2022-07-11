@@ -33,8 +33,6 @@ The USGS wants you to plot a second dataset on your map to illustrate the relati
 
 The following image is an example screenshot of what the USGS would like you to produce:
 
-![5-Advanced](Images/5-Advanced.png)
-
 Perform the following tasks: 
 
 * Plot the tectonic plates dataset on the map in addition to the earthquakes.
@@ -44,6 +42,7 @@ Perform the following tasks:
 * Put each dataset into separate overlays that can be turned on and off independently.
 
 * Add layer controls to our map.
+
 ![satellite map](/leaflet-challenge/Leaflet-Step-1/Images/satellite%20map.png)
 ![mapboxlight](/leaflet-challenge/Leaflet-Step-1/Images/mapboxlight.png)
 ![mapboxoutdoors](/leaflet-challenge/Leaflet-Step-1/Images/mapboxoutdoors.png)
